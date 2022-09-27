@@ -1,0 +1,7 @@
+echo "# aws_trail" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lahari-162/aws_trail.git
+git push -u origin main
